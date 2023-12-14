@@ -22,12 +22,12 @@ This project provides a versatile Python script that covers various aspects of d
 
 Ensure you have the following software and libraries installed before running the script:
 
-- Python (version X.X)
-- NumPy (version X.X)
-- SciPy (version X.X)
-- Matplotlib (version X.X)
-- Pandas (version X.X)
-- Scikit-learn (version X.X)
+- Python 
+- NumPy 
+- SciPy 
+- Matplotlib 
+- Pandas 
+- Scikit-learn 
 - Other dependencies as needed
 
 ## Usage
@@ -62,7 +62,7 @@ Follow these steps to run the script:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Execute the script using `python script.py`.
+3. Execute the script using `iris_prediction.py`.
 4. Customize the script with your own data or modify specific sections as needed.
 
 ## Contributing
